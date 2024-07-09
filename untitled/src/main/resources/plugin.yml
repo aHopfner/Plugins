@@ -1,0 +1,4 @@
+name: PlayerLogs
+version: '${project.version}'
+main: org.reddev.playerlogs.PlayerLogs
+api-version: '1.21'

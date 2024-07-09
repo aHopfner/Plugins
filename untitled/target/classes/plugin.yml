@@ -1,0 +1,4 @@
+name: PlayerLogs
+version: '1.0-SNAPSHOT'
+main: org.reddev.playerlogs.PlayerLogs
+api-version: '1.21'

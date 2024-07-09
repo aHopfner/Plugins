@@ -1,0 +1,4 @@
+org\reddev\playerlogs\JoinLeaveListener.class
+org\reddev\playerlogs\CustomLog.class
+org\reddev\playerlogs\PlayerLogger.class
+org\reddev\playerlogs\PlayerLogs.class
